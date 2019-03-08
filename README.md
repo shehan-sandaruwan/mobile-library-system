@@ -1,8 +1,8 @@
 # mobile-library-system
  <h2>Requirements</h2> <br>
 
-1.user should able to add details of the books<br>
-2.user should able to search books by name <br>
+1.user should be able to add details of the books<br>
+2.user should be able to search books by name <br>
 3.each book should have name,author,owner name,contact details and location<br>
 4.user should able to add details of book donation and it should visible for other users.<br>
 5.location and contact detauils able to add reagarding to particular donation.<br>
